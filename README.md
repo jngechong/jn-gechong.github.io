@@ -1,16 +1,24 @@
-### Hi there 👋
+# 我的个人博客QAQ
 
-<!--
-**gechong1026/gechong1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+正常文本。
+另起一行。
 
-Here are some ideas to get you started:
+## 简单使用
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*斜体*
+**粗体**
+`代码块`
+
+### Next
+
+新的段落。
+[我的主页](https://gechong1026.github.io/)
+
+符号列表：
+- 猫
+- 狗
+
+数字列表
+1. one
+2. two
+3. three

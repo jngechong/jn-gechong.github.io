@@ -5,8 +5,6 @@ tags: first markdown example
 categories: demo
 ---
 
-# 我的第一个post
-
 正常文本。
 
 另起一行。

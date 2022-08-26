@@ -1,0 +1,9 @@
+# Site settings
+title: GEC's GitHub Pages
+author:
+  name: gechong
+  email: jngechong@gmail.com
+description: "My personal GitHub Pages for my blogs."
+
+# Build settings
+remote_theme: jekyll/minima

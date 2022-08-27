@@ -5,7 +5,7 @@ example: "Example text."
 ---
 
 This page describes the amazing {{ site.title }} by {{ site.author.name }}.
-{{ page.exapmle }}
+{{ page.example }}
 
 {% include big-cat.html %}
 

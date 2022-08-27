@@ -34,6 +34,6 @@ It is your opportunity to let us know all the details "about" your project:
 ## Small animal only
 
 {% assign small_animals = site.animals | where: "size", "small" %}
-(% for i in small_animals %)
+{% for i in small_animals %}
 - {{ i.name | upcase }}
 {% endfor %}

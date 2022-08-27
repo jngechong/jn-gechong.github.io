@@ -19,11 +19,13 @@ It is your opportunity to let us know all the details "about" your project:
 - people involved
 - code and projects ysed
 
+## List of animals
+
 {% for i in site.data.animals %}
 - The {{ i.name }} is a {{ i.size }} animal.
 {% endfor %}
 
-## Large animal are special
+## Large animals are special
 
 {% for i in site.data.animals %}
 {% if i.size == "large" %}- <strong style="color: {{ i.color }};">{{ i.name }}</strong>
@@ -31,9 +33,9 @@ It is your opportunity to let us know all the details "about" your project:
 {% endif %}
 {% endfor %}
 
-## Small animal only
+## Small animals only
 
-{% assign small_animals = site.animals | where: "size", "small" %}
+{% assign small_animals = site.data.animals | where: "size", "small" %}
 {% for i in small_animals %}
 - {{ i.name | upcase }}
 {% endfor %}

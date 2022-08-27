@@ -4,7 +4,8 @@ title: About
 example: "Example text."
 ---
 
-This page describes the amazing ({ site.title }) by ({ site.author.name }).
+This page describes the amazing {{ site.title }} by {{ site.author.name }}.
+{{ page.exapmle }}
 
 {% include big-cat.html %}
 

@@ -13,12 +13,12 @@ categories: resource
 
 
 - This viedo is teaching some basic function about jekyll like post,about,index,etc.
-- 
+
 [Go Go GH-Pages! Creating Websites with GitHub Pages and Jekyll (part 2)](https://www.youtube.com/watch?v=xQsQwp-oqSA)
 
 
 - This viedo is teaching Liquid. By using Liquid, we can join information or data in this repository's floder. Even jekyll can support some conditional statements, like "for" - "endfor", "if" - "endif", "else", "where" 
-- 
+
 [Go Go GH-Pages! Creating Websites with GitHub Pages and Jekyll (part 3)](https://www.youtube.com/watch?v=BdhLjm4VUKc)
 
 

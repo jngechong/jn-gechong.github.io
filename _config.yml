@@ -6,5 +6,4 @@ author:
 description: "My personal GitHub Pages for my blogs."
 
 # Build settings
-# remote_theme: jekyll/minima
-remote_theme: jekyll-theme-cayman
+remote_theme: jekyll/minima

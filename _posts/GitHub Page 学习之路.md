@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Go Go GH-Pages Learning
-tags: some web about Go Go GH-Pages
+title: GitHub Page 学习之路
+tags: 记录学习GitHub Page 的相关资料
 categories: resource
 ---
+
+## go-go gh-pages
 
 [go-go gh-pages!](https://evanwill.github.io/go-go-ghpages-b/)
 
